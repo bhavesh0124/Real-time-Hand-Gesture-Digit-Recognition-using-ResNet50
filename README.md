@@ -1,4 +1,3 @@
-# Real-time-Hand-Gesture-Digit-Recognition-using-ResNet50
 
 
 # **Real-time-Hand-Gesture-Digit-Recognition-using-ResNet50**
