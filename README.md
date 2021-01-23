@@ -9,7 +9,7 @@ Following the high level architecture of ResNet 50.
 
 ![alt text](images/ResNet.png)
 
-Following are the layers that I have used for training the model for around 20 epochs and a batch size of 120.
+Following are the layers that I have used for training the model for around 20 epochs and with a batch size of 120.
 For auto labelling the train images, I have used Tensorflow's Image Generator. 
 
 You can also train it using your own data by running the collect-data.py file.
